@@ -6,7 +6,7 @@ Disse har blitt endret og modifisert til å passe bruken.
 
 Alle filene som starter med IR er fra blioteket IRremote som er henvist til i teknisk rapport. LICENSE.txt er også fra dette biblioteket.
 
-ProcessingMinim er kodeskjelettet fra guiden som viser til dette.
+ProcessingMinim er kodeskjelettet fra guiden som viser til dette. Denne krever at biblioteket liberary er instalert på datamaskinen.
 
 .mp3 filene er lydene som ble brukt under brukertesting.
 
